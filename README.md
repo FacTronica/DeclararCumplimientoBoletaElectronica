@@ -1,4 +1,12 @@
 # DeclararCumplimientoBoletaElectronica
+
+Previo a la declaración de cumplimiento, se debe realizar la certificación en el sii.
+Para ello aquí la información:
+<br>http://www.sii.cl/factura_electronica/guia_emitir_boleta_servicio.htm
+
+Para solicitar set de pruebas de boleta electrónica aquí el link:
+<br>https://www4.sii.cl/certBolElectDteInternet/?SET=1
+
 Pasos a seguir para declarar cumplimiento de requisitos exigidos por el SII Chile para la emisión de boletas electrónicas
 
 Luego que el SII ha respondido vía email con el V°B° por la Certificación de Boletas Electrónicas, se debe proceder a Declarar cumplimiento de requisitos en el momento que desea comenzar a emitir boleta electrónica en producción.
